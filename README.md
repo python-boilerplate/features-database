@@ -12,3 +12,4 @@ A database of features used in templates
 - uv
 - devcontainer
 - ruff (config & pre-commit)
+- pre-commit
